@@ -15,10 +15,8 @@ To write a Python program using A Naive recursive implementation of Minimum Cost
 
 ## Program:
 ```
-/*
 Developed by: Vijay Shankar M
 Register Number: 212222040178
-*/
 ```
 ```
 R = int(input())
